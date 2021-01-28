@@ -1,5 +1,10 @@
 #!/bin/zsh
 
+# deletion measures
+alias cp="cp -i"
+alias rm="rm -i"
+alias mv="mv -i"
+
 # ls
 alias ls="ls --color=auto"
 alias ll="ls -lh"
