@@ -1,2 +1,4 @@
 #!/bin/zsh
 
+# ls
+alias ls="ls --color=auto"
