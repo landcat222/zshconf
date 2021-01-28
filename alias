@@ -1,2 +1,4 @@
 #!/bin/zsh
 
+# deletion measures
+alias cp="cp -i"
